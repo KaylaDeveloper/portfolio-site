@@ -27,7 +27,7 @@ export default function Home() {
     {
       title: "Social Media Tracker",
       desc: "Tracks time and usage",
-      linkURL: "/social-tracker",
+      linkURL: "/social-media-tracker",
       image: "/youtube.jpeg"
     },
   ]
